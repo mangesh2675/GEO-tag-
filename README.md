@@ -18,6 +18,5 @@ https://www.figma.com/file/bsvd2vIod2vKOsWiWT78V8/GEO-tag?type=design&node-id=0%
 # Figma camera registration page design
 ![image](https://github.com/mangesh2675/GEO-tag-/assets/127402004/517f149f-6ac7-4df0-8ed1-ec97e26c27df)
 
-
 # Figma police registration page design
-![image](https://github.com/mangesh2675/GEO-tag-/assets/127402004/10146479-5c7a-44f5-9fb3-f5752ead4ebd)
+![image](https://github.com/mangesh2675/GEO-tag-/assets/127402004/5006c128-4d00-432f-86a9-ffecf35eca3a)
